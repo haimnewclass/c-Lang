@@ -18,5 +18,11 @@
     <ClCompile Include="c-Lang.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson2_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson2_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

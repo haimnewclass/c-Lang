@@ -2,7 +2,7 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
 
-int main()
+int main1()
 {
 	int a;
 	int b;
@@ -12,9 +12,11 @@ int main()
 	b = 13;
 	c = a + b;
 
-	printf("a is %d", a);
-	printf("b is %d", b);
-	printf("The result is %d", c);
+	printf("a is %d\n\n", a);
+	printf("b is %d\n", b);
+	printf("The result is %d\n", c);
+	
+	printf("The furmula is %d+%d=%d. Enjoy from life %d. Great %d\n", a,b,c,100,a+b);
 
 	return 0;
 }
