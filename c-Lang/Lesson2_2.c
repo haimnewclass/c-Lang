@@ -2,7 +2,7 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
 
-int main()
+int main3()
 {
 	int IdNumer;
 	int childsCount;
@@ -13,6 +13,7 @@ int main()
 	sum = IdNumer + childsCount;
 	printf("\n The result is %d", sum);
 	getch();
+
 
 	return 0;
 }
