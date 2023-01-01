@@ -2,13 +2,13 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
 
-int main()
+int main_2_4()
 {
 	printf("Please enter the house area\n");
-
+ 
 	int area;
-	scanf("%d", &area);
 
+	scanf("%d", &area);
 
 	printf("Please enter the region code (between 1 - 10)\n");
 	int code;

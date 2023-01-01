@@ -27,5 +27,11 @@
     <ClCompile Include="Lesson2_4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson3_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson3_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
