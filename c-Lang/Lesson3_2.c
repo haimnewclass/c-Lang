@@ -2,7 +2,7 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
 
-int main()
+int main3_5()
 {
 	int a;
 	int b;
