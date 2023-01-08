@@ -2,7 +2,7 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
 
-int main()
+int main_6_4()
 {
 	// index loop
 	int i = 0;
@@ -21,6 +21,7 @@ int main()
 	{
 
 	}
+	
 	
 	 
 
