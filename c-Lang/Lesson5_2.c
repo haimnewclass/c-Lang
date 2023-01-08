@@ -2,8 +2,42 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
 
-int main()
+int main_5_2()
 {
+	int k;
+	k = 9;
+	k = 34;
+	k = k + 1;
+	int arr[20];
+	arr[0] = 123;
+	arr[19] = 45;
+	arr[2] = 66;
+	arr[2] = arr[2] + 1;
+	arr[9] = 10;
+	k = 0;
+	arr[arr[9]+1] = 78;
+
+	k = 0;
+	while (k<10)
+	{
+		scanf("%d", &arr[k]);
+		k = k + 1;
+	}
+
+	k = 0;
+	while (k < 10)
+	{
+		printf("%d", arr[k]);
+		k = k + 1;
+	}
+
+
+
+
+
+
+
+
 	int a;
 	a = 10;
 	int b[10];
