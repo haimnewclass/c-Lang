@@ -72,5 +72,8 @@
     <ClCompile Include="Lesson6_6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson6_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

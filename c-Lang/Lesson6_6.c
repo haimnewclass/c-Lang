@@ -2,7 +2,7 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
 
-int main()
+int main_6_6()
 {
 	// 123123123123123 
 	for (int y = 1; y <= 5; y++)
