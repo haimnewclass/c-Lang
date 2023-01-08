@@ -54,5 +54,17 @@
     <ClCompile Include="Lesson5_3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson6_1_ComplexConditions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson6_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson6_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson6_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

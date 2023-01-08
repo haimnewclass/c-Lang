@@ -2,7 +2,7 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
 
-int main()
+int main_5_3_5()
 {
 	 
 	int arr[5];
