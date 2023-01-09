@@ -2,7 +2,7 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
 
-int main()
+int main_6_7()
 {
 	int linesCount;
 	scanf("%d", &linesCount);
