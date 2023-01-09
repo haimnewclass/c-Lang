@@ -28,14 +28,18 @@ int main()
 	int s = strlen(name);   // size of string (until 0)
 
 	char bl[100];
+	char nl[100];
 	gets(bl); // get string from user
 
+	strcpy(nl, bl);
+	printf("%s", nl);
 	printf("The string %s is %d size", bl, strlen(bl));
 	// string - char array
 	printf("The string is %s", name);
 
 	strcpy(bl, "Super man");
 	strcpy(bl, "Spiderman");
+
 
 
 	printf("%c and %c %d", ch1, ch2,ch3);
