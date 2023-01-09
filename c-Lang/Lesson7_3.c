@@ -29,7 +29,7 @@ int IsZugi(int num)
 
 	return ret;
 }
-int main()
+int main_7_3_3()
 {
 
 	printStartsRectangle(10, 30);
