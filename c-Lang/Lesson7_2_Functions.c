@@ -7,11 +7,11 @@ int a()
 	return 0;
 }
 
+
+ 
 int WhatIsTheMaxNum(int num1, int num2)
 {
 	int ret;
-
-	a();
 
 	if (num1 > num2)
 	{
@@ -22,12 +22,13 @@ int WhatIsTheMaxNum(int num1, int num2)
 		ret = num2;
 	}
 
+	
 	return ret;
 }
 
-
-int main()
+int main_7_3()
 {
+ 
 	int a;
 	a = WhatIsTheMaxNum(200, 45);
 	printf("%d\n", a);
