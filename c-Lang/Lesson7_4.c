@@ -4,7 +4,7 @@
 
 #pragma warning(disable:4996)
  
-int main()
+int main_7_4()
 {
 
 	char ch1;
