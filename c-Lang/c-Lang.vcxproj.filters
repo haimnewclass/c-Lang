@@ -93,5 +93,8 @@
     <ClCompile Include="Lesson8_2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson8_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

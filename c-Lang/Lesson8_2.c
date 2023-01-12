@@ -4,7 +4,7 @@
 
 #pragma warning(disable:4996)
 
-int main()
+int main_8_2()
 {
 	char str[10000],str1[10000],str2[10000];
 	/*
@@ -23,20 +23,16 @@ int main()
 
 	char bigStr[500];
 	char smallStr[90];
-
+	//small  EEE
+	//big    AAAAA,BBB,CCC,DDD,EEE.0dfkhjagsdfjkhgsdkjfyags kdjfhgs dkjhyfg
 	bigStr[0] = 0;
 	for (int i = 0; i < 5; i++)
 	{
 		gets(smallStr);
 		strcat(bigStr, smallStr);
 		int len = strlen(bigStr);
-		/*
-		if (i < 4)
-			bigStr[len] = ',';
-		else
-			bigStr[len] = '.';
-		*/
-		bigStr[len] = (i == 4) ? '.' : ',';
+		 
+		bigStr[len] = (i == 4) ? ('.') : (',');
 
 		bigStr[len + 1] = 0;
 	}
