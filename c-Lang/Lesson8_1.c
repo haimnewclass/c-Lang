@@ -4,7 +4,7 @@
 
 #pragma warning(disable:4996)
 
-int main()
+int main_8_1()
 {
 	char str[100];
 	str[0] = 'A';
