@@ -158,6 +158,10 @@
     <ClCompile Include="Lesson9_2.c" />
     <ClCompile Include="Lesson9_3.c" />
     <ClCompile Include="Lesson9_4.c" />
+    <ClCompile Include="Lesson9_5.c" />
+    <ClCompile Include="Lesson9_6.c" />
+    <ClCompile Include="Lesson9_7.c" />
+    <ClCompile Include="Lesson9_8.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

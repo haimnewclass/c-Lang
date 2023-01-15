@@ -5,7 +5,7 @@
 #pragma warning(disable:4996)
  
 
-int main()
+int main_9_4()
 {
 	int data[10] = {3,3,66,66,7,7,89,89,3,3};
 	
