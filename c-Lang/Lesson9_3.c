@@ -14,7 +14,7 @@ int isDigit(char digit)
 	return ret;
 }
 
-int main()
+int main_9_3()
 {
 	char str[3];
 	int num;
