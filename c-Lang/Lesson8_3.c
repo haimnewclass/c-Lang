@@ -4,7 +4,7 @@
 
 #pragma warning(disable:4996)
 
-int main()
+int main_8_3()
 {
 	char tblToReplace[4];
 	tblToReplace[0] = '!';
