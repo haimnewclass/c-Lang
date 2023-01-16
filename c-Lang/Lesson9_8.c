@@ -5,7 +5,7 @@
 #pragma warning(disable:4996)
 
 int convertNumToDigitsSum(int num)
-{
+{		
 	// 23 -> 5
 	// 12 - > 3
 	// 123 -> 6
@@ -24,7 +24,7 @@ int convertNumToDigitsSum(int num)
 	return ret;
 }
 
-int main()
+int main_9_8()
 {
 	convertNumToDigitsSum(23);
 	
@@ -46,6 +46,7 @@ int main()
 	getch();
 	return 0;
 
+	//12, -8, -5, -3, 0, 1, 7, 8, 17, 23]
 
 	// 4,-1,-1
 	// 1,2,4

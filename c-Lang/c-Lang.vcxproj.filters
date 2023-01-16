@@ -120,5 +120,14 @@
     <ClCompile Include="Lesson9_8.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson10_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson10_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson10_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
