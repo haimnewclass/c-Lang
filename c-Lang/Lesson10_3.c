@@ -5,7 +5,7 @@
 #pragma warning(disable:4996)
  
 
-int main()
+int main_10_3()
 {
 	int arr[5];
 	for (int i = 0; i < 5; i++)
@@ -15,7 +15,8 @@ int main()
 
 	// sort
 	// 23,3,5,2,9 -> 2,3,5,9,23
-	// 
+	// 3,5,2,23,9
+
 	getch();
 	return 0;
 }
