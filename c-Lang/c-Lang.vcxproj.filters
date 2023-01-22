@@ -135,5 +135,8 @@
     <ClCompile Include="Lesson11_2_File.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson11_3_FileRead.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

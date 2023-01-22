@@ -3,7 +3,7 @@
 #include <string.h>
 
 #pragma warning(disable:4996)
-int main()
+int main_11_2()
 {
 	char str[100];
 
@@ -20,7 +20,7 @@ int main()
 	// w write
 	// r reading
 	// a append
-	FILE* f = fopen(fileName, "w");
+	FILE* f = fopen(fileName, "a");
 	FILE* f1 = fopen(fileName1, "w");
 
 	// Write into file
