@@ -66,7 +66,7 @@ int RightDigit(int num)
 	return num % 10;
 }
 
-int main()
+int main_11_1()
 {
 	int arr1[10] = {23,3,44,5,6,34,6,22,3,777};
 	
