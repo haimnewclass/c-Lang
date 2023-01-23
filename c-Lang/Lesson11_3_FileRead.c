@@ -3,7 +3,7 @@
 #include <string.h>
 
 #pragma warning(disable:4996)
-int main()
+int main_11_3()
 {
 	char str[100];
 	 

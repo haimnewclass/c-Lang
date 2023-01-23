@@ -46,6 +46,7 @@ void ShiftLeft(int arr[], int positions)
 		arr[ARRAY_SIZE - i - 1] = tmp;
 	}
 }
+
 void ShiftRight(int arr[], int positions)
 {
 	//22,3,7,45,9,1,2,44,5,2
@@ -95,7 +96,9 @@ int main_11_1()
 		}
 
 		printf("Enter new Number \n");
+
 		scanf("%d", &num);
+
 	}
 
 	return 0;

@@ -134,6 +134,7 @@
     <ClCompile Include="Lesson11_1.c" />
     <ClCompile Include="Lesson11_2_File.c" />
     <ClCompile Include="Lesson11_3_FileRead.c" />
+    <ClCompile Include="Lesson12_1.c" />
     <ClCompile Include="Lesson2_2.c" />
     <ClCompile Include="Lesson2_3.c" />
     <ClCompile Include="Lesson2_4.c" />
